@@ -100,7 +100,7 @@ cloud_kitchen/
 - **Custom User Model**: Extends Django's User model with additional fields.
 - **Basic Authentication**: Uses Django REST Framework's built-in authentication.
 - **Role-Based Access Control (RBAC)**: Granular permissions based on user roles.
-- **Social Media Authentication (OAuth)**: Integration with Google and Facebook for user sign-up.
+- **Social Media Authentication (OAuth)**: Integration with Google for user sign-up.
 - **Two-Factor Authentication**: Enhanced security with two-factor authentication.
 - **User Profile System**: Customizable user preferences.
 
