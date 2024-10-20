@@ -1,5 +1,6 @@
 ### Tree Structure of the Cloud Kitchen Backend Project
 
+```markdown
 ```plaintext
 cloud_kitchen/
 ├── cloud_kitchen/
@@ -188,12 +189,9 @@ cloud_kitchen/
 - **Custom Admin Actions**: Common tasks like sending notifications and generating reports.
 - **Advanced Filtering and Search**: Enhanced search capabilities using Haystack and Elasticsearch.
 
+### Setup Instructions
 
-
-
-
-
-
+```bash
 # Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
@@ -214,5 +212,6 @@ python manage.py startapp delivery
 python manage.py startapp payments
 python manage.py startapp communication
 python manage.py startapp api
-python manage.py startapp notifications#   k l o u d - k o o k  
- 
+python manage.py startapp notifications
+```
+
