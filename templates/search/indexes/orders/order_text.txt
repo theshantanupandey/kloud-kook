@@ -1,0 +1,4 @@
+{{ object.user.username }}
+{{ object.status }}
+{{ object.created_at }}
+{{ object.updated_at }}
