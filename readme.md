@@ -1,7 +1,6 @@
 ### Tree Structure of the Cloud Kitchen Backend Project
 
 ```markdown
-```plaintext
 cloud_kitchen/
 ├── cloud_kitchen/
 │   ├── __init__.py
